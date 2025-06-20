@@ -8,5 +8,5 @@ function letterFinder (word,match){
     };
 };
 
-letterFinder("mohamed","m");
+letterFinder("mohamed","d");
 
